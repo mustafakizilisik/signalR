@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.SignalR;
 
-namespace Business
+namespace WebApi
 {
     public class MyHub : Hub
     {
